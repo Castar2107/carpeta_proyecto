@@ -1,0 +1,5 @@
+Nombre de usuario: adaw26icastarnado_db_user
+Contraseña: fmEw8nTNKQ1TR1ws
+
+Driver: 
+mongodb+srv://adaw26icastarnado_db_user:fmEw8nTNKQ1TR1ws@notescluster.n1xs48d.mongodb.net/?appName=notesCluster

@@ -1,0 +1,19 @@
+GET http://localhost:3001/usuarios
+
+###
+
+GET http://localhost:3001/usuarios/2
+
+POST http://localhost:3001/usuarios
+Content-Type: application/json
+
+###
+
+{
+    "id": 3,
+    "nombre": "Pedro"   
+}
+
+###
+
+DELETE http://localhost:3001/usuarios/3
